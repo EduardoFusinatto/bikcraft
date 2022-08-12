@@ -23,6 +23,7 @@ a {
   color: inherit; /*para herdar os valores do pai*/
 }
 img {
+  height: auto;
   max-width: 100%;
   display: block;
 }
